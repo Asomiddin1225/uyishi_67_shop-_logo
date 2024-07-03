@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130385720776",
+    "project_id": "uyishi-67",
+    "storage_bucket": "uyishi-67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130385720776:android:cfc647ecdba8a0e2267cfd",
+        "android_client_info": {
+          "package_name": "com.example.uyishi_65"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ajRWuAwAT9fs0wClvye5dSPG5l3oprw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
